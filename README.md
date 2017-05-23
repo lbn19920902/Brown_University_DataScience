@@ -1,4 +1,4 @@
 # Brown_University_DataScience
 
 Tech Assignment From Brown University
-For Data Science Associate Position
+For Data Science Position
